@@ -174,7 +174,7 @@ If the time since the creation of an AuthReply message exceeds a user-defined ti
 
 ### Challenge URI format
 
-opentxs://otso/1/<endpoint>/<transport key>/<nonce>
+`opentxs://otso/1/<endpoint>/<transport key>/<nonce>`
 
 1. endpoint SHALL consist of the client handler's PULL socket endpoint, with the "tcp://" prefix omitted.
 1. transport key SHALL be a valid CurveCP public key in Z85 format.
