@@ -1,7 +1,6 @@
----
-layout: home
-title:  Stash RFC
----
+# Stash RFC
+
+<br>
 
 ### OT Sign-On:
 
