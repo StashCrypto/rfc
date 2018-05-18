@@ -3,6 +3,7 @@ author: © 2018 Stash Inc.
 theme: minima
 
 header_pages:
+  - 
 
 exclude:
   - README.md
