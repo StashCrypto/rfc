@@ -1,4 +1,7 @@
-# OT Sign-On Protocol v1
+---
+title: OT Sign-On Protocol v1
+layout: page
+---
 
 Name: [stashcrypto.github.io/rfc/1-otso](https://stashcrypto.github.io/rfc/1-otso)  
 Status: draft  
