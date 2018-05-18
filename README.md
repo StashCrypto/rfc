@@ -2,4 +2,4 @@
 
 ### OT Sign-On:
 
-https://stashcrypto.github.io/rfc/1-oso
+https://stashcrypto.github.io/rfc/1-otso
