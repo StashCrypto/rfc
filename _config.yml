@@ -1,9 +1,8 @@
 title: Stash RFC
+author: © 2018 Stash Inc. – All rights reserved.
 theme: minima
 
-navbar-links:
-
-name: Stash, Inc.
+header_pages:
 
 exclude:
   - README.md
