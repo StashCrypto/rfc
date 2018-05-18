@@ -1,7 +1,7 @@
 # OT Sign-On Protocol v1
 
-Name: [stashcrypto.github.io/rfc/1-otso](https://stashcrypto.github.io/rfc/1-otso)
-Status: draft
+Name: [stashcrypto.github.io/rfc/1-otso](https://stashcrypto.github.io/rfc/1-otso)  
+Status: draft  
 Editor: Justus Ranvier [justus@stashcrypto.com](mailto:justus@stashcrypto.com)
 
 <br>
