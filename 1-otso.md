@@ -68,8 +68,6 @@ OTSO defines a ZeroMQ message-based dialog between:
 
 The backend handler and client handler are both part of the same component known as the OTSO handler.
 
-<br>
-
 <div style="text-align:center"><img alt="OTSO protocols diagram" src ="OTSO-protocols.png" /></div>
 
 <br>
