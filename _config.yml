@@ -1,2 +1,9 @@
 title: Stash RFC
 theme: minima
+
+navbar-links:
+
+name: Stash, Inc.
+
+exclude:
+  - README.md
