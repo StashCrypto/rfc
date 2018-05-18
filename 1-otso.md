@@ -1,10 +1,10 @@
 # OT Sign-On Protocol v1
 
-<br>
-
 * Name: [stashcrypto.github.io/rfc/1-otso](https://stashcrypto.github.io/rfc/1-otso)
 * Status: draft
 * Editor: Justus Ranvier [justus@stashcrypto.com](mailto:justus@stashcrypto.com)
+
+<br>
 
 This document specifies version 1 OTSO, the OT Sign-On Protocol. The use case for OTSO is a web service which wishes to cryptographically prove a connected session is controlled by the owner of a BIP-47 payment code.
 
@@ -29,8 +29,6 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 ## Overall Design
 
-<br>
-
 ### What Problems does OTSO Address?
 
 OTSO allows blockchain-centric web services to dispense with password-based login by relying on the assumption that their users control a BIP-47 payment code that can serve as their user ID.
@@ -47,7 +45,7 @@ Messages used in the OTSO protocol consist of the Google Protobuf definitions pr
 
 <br>
 
-# Formal Specification
+## Formal Specification
 
 <br>
 
@@ -87,7 +85,7 @@ The backend, client, and OTSO handler SHALL communicate using the following sock
 
 <br>
 
-# Backend - OTSO handler Protocol
+## Backend - OTSO handler Protocol
 
 <br>
 
