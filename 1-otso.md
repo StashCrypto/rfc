@@ -18,6 +18,8 @@ See also:
 
 <br>
 
+<br>
+
 ## Preamble
 
 <br>
@@ -29,6 +31,8 @@ This Specification is free software; you can redistribute it and/or modify it un
 This Specification is a free and open standard and is governed by the Digital Standards Organization's Consensus-Oriented Specification System.
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
+
+<br>
 
 <br>
 
